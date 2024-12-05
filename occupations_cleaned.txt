@@ -1,0 +1,600 @@
+Actor
+Announcer
+Art Director
+Audio and Video Equipment Technician
+Author
+Broadcast News Analyst
+Broadcast Technician
+Camera Operator
+Choreographer
+Copy Writer
+Craft Artist
+Curator
+Dancer
+Editor
+Essayist
+Fashion Designer
+Film and Video Editor
+Floral Designer
+Graphic Designer
+Illustrator
+Interior Designer
+Media and Communication Equipment Worker
+Merchandising
+Painter
+Photographer
+Poet
+Program Director
+Public Relations Specialist
+Radio Operator
+Sculptor
+Singer
+Sound Engineering Technician
+Talent Director
+Technical Writer
+Writer
+Pest Control Worker
+Accountant
+Auditor
+Budget Analyst
+Business Continuity Planner
+Business Operations Specialist
+Compliance Officer
+Coroner
+Cost Estimator
+Credit Analyst
+Customs Broker
+Emergency Management Specialist
+Employment Interviewer
+Energy Auditor
+Environmental Compliance Inspector
+Financial Analyst
+Financial Examiner
+Financial Quantitative Analyst
+Insurance Underwriter
+Investment Underwriter
+Labor Relations Specialist
+Loan Counselor
+Loan Officer
+Logistician
+Management Analyst
+Meeting and Convention Planner
+Personal Financial Advisor
+Personnel Recruiter
+Regulatory Affairs Specialist
+Risk Management Specialist
+Security Management Specialist
+Sustainability Specialist
+Tax Preparer
+Training and Development Specialist
+Clergy
+Director of Religious Education or Activities
+Health Educator
+Social and Human Service Assistant
+Actuary
+Biostatistician
+Business Intelligence Analyst
+Clinical Data Manager
+Computer and Information Scientist
+Computer Programmer
+Computer Security Specialist
+Computer Software Engineer
+Computer Specialist
+Computer Support Specialist
+Data Warehousing Specialist
+Database Administrator
+Database Architect
+Document Management Specialist
+Electronic Commerce Specialist
+Geographic Information Systems Technician
+Informatics Nurse Specialist
+Information Technology Project Manager
+Mathematical Science Occupation
+Mathematical Technician
+Mathematician
+Network and Computer Systems Administrator
+Network Systems and Data Communications Analyst
+Operations Research Analyst
+Statistician
+Telecommunications Specialist
+Video Game Designer
+Web Administrator
+Web Developer
+Boilermaker
+Carpenter
+Carpet Installer
+Construction Laborer
+Derrick Operator (Oil and Gas)
+Earth Driller (except Oil and Gas)
+Electrician
+Fence Erector
+Floor Layer
+Glazier
+Hazardous Materials Removal Worker
+Highway Maintenance Worker
+Insulation Worker
+Mason
+Mining Machine Operator
+Pipelayer
+Rock Splitter
+Roofer
+Rotary Drill Operator
+Roustabout
+Segmental Paver
+Sheet Metal Worker
+Solar Energy Installation Manager
+Solar Photovoltaic Installer
+Structural Iron and Steel Worker
+Taper
+Adaptive Physical Education Specialist
+Archivist
+Elementary School Teacher (except Special Education)
+Graduate Teaching Assistant
+Instructional Coordinator
+Kindergarten Teacher (except Special Education)
+Librarian
+Library Technician
+Middle School Teacher (except Special and Vocational Education)
+Postsecondary Teacher
+Preschool Teacher
+Secondary School Teacher 
+Special Education Teacher
+Teacher Assistant
+Tutor
+Vocational Education Teacher
+Aerospace Engineer
+Aerospace Engineering and Operations Technician
+Agricultural Engineer
+Architect
+Automotive Engineer
+Automotive Engineering Technician
+Biochemical Engineer
+Biomedical Engineer
+Chemical Engineer
+Civil Engineer
+Civil Engineering Technician
+Computer Hardware Engineer
+Drafter
+Electrical Engineers
+Electronics Engineer
+Energy Engineer
+Environmental Engineer
+Environmental Engineering Technician
+Fuel Cell Engineer
+Fuel Cell Technician
+Geodetic Surveyor
+Health and Safety Engineer
+Human Factors Engineer and Ergonomist
+Industrial Engineering Technicians
+Industrial Engineers
+Industrial Safety and Health Engineer
+Landscape Architect
+Manufacturing Engineer
+Manufacturing Engineering Technologist
+Manufacturing Production Technician
+Mapping Technician
+Marine Architect
+Materials Engineer
+Mechanical Drafter
+Mechanical Engineer
+Mechanical Engineering Technician
+Mechatronics Engineer
+Microsystems Engineer
+Nanosystems Engineer
+Nanotechnology Engineering Technician
+Nuclear Engineer
+Petroleum Engineer
+Photonics Engineer
+Photonics Technician
+Product Safety Engineer
+Radio Frequency Identification Device Specialist
+Robotics Engineer
+Robotics Technician
+Solar Energy Systems Engineer
+Surveying and Mapping Technician
+Surveyor
+Transportation Engineer
+Validation Engineer
+Wind Energy Engineer
+Agricultural Equipment Operator
+Agricultural Inspector
+Animal Breeder
+Faller
+Farm Labor Contractor
+Fisher or Related Fishing Worker
+Forest and Conservation Worker
+Logging Equipment Operator
+Nursery Worker
+Barista
+Bartender
+Dishwasher
+Food Preparation Worker
+Food Server
+Acupuncturist
+Acute Care Nurse
+Advanced Practice Psychiatric Nurse
+Anesthesiologist
+Anesthesiologist Assistant
+Athletic Trainer
+Audiologist
+Chiropractor
+Critical Care Nurse
+Cytogenetic Technologist
+Cytotechnologist
+Dental Assistant
+Dental Hygienist
+Dentist
+Dermatologist
+Diagnostic Medical Sonographer
+Dietetic Technician
+Electroneurodiagnostic Technologist
+Endoscopy Technician
+Family and General Practitioner
+Genetic Counselor
+Hearing Aid Specialist
+Home Health Aide
+Hospitalist
+Internist
+Vision, Orientation and Mobility Specialist
+Massage Therapist
+Medical Assistant
+Medical Equipment Preparer
+Medical Records and Health Information Technicians
+Medical Transcriptionist
+Midwife
+Naturopathic Physician
+Neurologist
+Nuclear Medicine Physician
+Nuclear Medicine Technologist
+Nurse Anesthetist
+Nurse Midwife
+Nurse Practitioner
+Occupational Health and Safety Specialist
+Occupational Health and Safety Technician
+Occupational Therapist
+Occupational Therapist Aide
+Occupational Therapist Assistant
+Ophthalmologist
+Optician (Dispensing)
+Optometrist
+Oral and Maxillofacial Surgeon
+Orthodontist
+Orthoptist
+Pathologist
+Pediatrician
+Pharmacist
+Pharmacy Aide
+Pharmacy Technician
+Physical Medicine and Rehabilitation Physician
+Physical Therapist
+Physical Therapist Aide
+Physical Therapist Assistant
+Physician's Assistant
+Podiatrist
+Preventive Medicine Physician
+Prosthodontist
+Psychiatric Aide
+Psychiatric Technician
+Psychiatrist
+Radiation Therapist
+Radiologist
+Recreational Therapist
+Registered Nurse
+Respiratory Therapist
+Respiratory Therapy Technician
+Sports Medicine Physician
+Surgeon
+Surgical Technologist
+Urologist
+Veterinarian
+Avionics Technician
+Bicycle Repairer
+Commercial Diver
+Fabric Mender
+Farm Equipment Mechanic
+Geothermal Technician
+Home Appliance Repairer
+Industrial Machinery Mechanic
+Machinery Maintenance Worker
+Manufactured Building and Mobile Home Installer
+Mechanical Door Repairer
+Medical Equipment Repairer
+Millwright
+Mobile Heavy Equipment Mechanic
+Motorboat Mechanic
+Motorcycle Mechanic
+Precision Instrument and Equipment Repairer
+Radio Mechanic
+Rail Car Repairer
+Recreational Vehicle Service Technician
+Refractory Materials Repairer
+Rigger
+Signal and Track Switch Repairer
+Watch Repairer
+Wind Turbine Service Technician
+Court Reporter
+Law Clerk
+Lawyer
+Animal Scientist
+Anthropologist
+Archeologist
+NA
+Astronomer
+Biochemist
+Bioinformatics Scientist
+Biological Technician
+Biologists
+Biophysicist
+Chemical Technician
+Chemist
+City and Regional Planning Aide
+Climate Change Analyst
+Conservation Scientist
+Economist
+Environmental Economist
+Environmental Restoration Planner
+Environmental Science Technician
+Environmental Scientist
+Epidemiologist
+Forensic Science Technician
+Forest and Conservation Technician
+Forester
+Geneticist
+Geographer
+Geological Sample Test Technician
+Geophysical Data Technician
+Geoscientist (except Hydrologist or Geographer)
+Historian
+Hydrologist
+Industrial Ecologist
+Market Research Analyst
+Materials Scientist
+Medical Scientist (except Epidemiologist)
+Microbiologist
+Molecular and Cellular Biologist
+Nuclear Equipment Operation Technician
+Nuclear Monitoring Technician
+Nuclear Technician
+Park Naturalist
+Physicist
+Political Scientist
+Precision Agriculture Technician
+Quality Control Analyst
+Range Manager
+Remote Sensing Technician
+Social Science Research Assistant
+Sociologist
+Soil and Plant Scientist
+Survey Researcher
+Transportation Planner
+Urban and Regional Planner
+Administrative Services Manager
+Advertising and Promotions Manager
+Aquacultural Manager
+Biofuels Production Manager
+Biomass Production Manager
+Brownfield Redevelopment Specialists and Site Manager
+Chief Executive Officers
+Chief Sustainability Officer
+Clinical Nurse Specialist
+Clinical Research Coordinator
+Compensation and Benefits Manager
+Compliance Manager
+Computer and Information Systems Manager
+Construction Manager
+Crop and Livestock Manager
+Distance Learning Coordinator
+Engineering Manager
+Financial Manager
+Fitness and Wellness Coordinator
+Food Service Manager
+Funeral Director
+Gaming Manager
+General and Operations Manager
+Geothermal Production Manager
+Green Marketer
+Human Resources Manager
+Hydroelectric Production Manager
+Industrial Production Manager
+Investment Fund Manager
+Legislator
+Lodging Manager
+Logistics Manager
+Loss Prevention Manager
+Marketing Manager
+Medical and Health Services Manager
+Natural Sciences Manager
+Nursery and Greenhouse Manager
+Online Merchant
+Public Relations Manager
+Purchasing Manager
+Quality Control Systems Manager
+Regulatory Affairs Manager
+Sales Manager
+Security Manager
+Social and Community Service Manager
+Storage and Distribution Manager
+Supply Chain Manager
+Training and Development Manager
+Transportation Manager
+Transportation, Storage, or Distribution Manager
+Water Resource Specialist
+Wind Energy Operations Manager
+Wind Energy Project Manager
+Aircraft Production Worker
+Bindery Worker
+Biofuels Processing Technician
+Biomass Plant Technician
+Dental Laboratory Technician
+Electromechanical Equipment Assembler
+Food Batchmaker
+Foundry Mold and Coremaker
+Furniture Finisher
+Gas Plant Operator
+Grinding, Lapping, Polishing, and Buffing Machine Tool Setter, Operator, and Tender
+Hydroelectric Plant Technician
+Job Printer
+Machinist
+Medical Appliance Technician
+Model Maker
+Molding and Casting Worker
+Nuclear Power Reactor Operator
+Ophthalmic Laboratory Technician
+Patternmaker
+Photographic Process Worker
+Potter
+Power Distributor and Dispatcher
+Power Plant Operator
+Precious Metal Worker
+Presser
+Printing Machine Operator
+Recycling and Reclamation Worker
+Semiconductor Processor
+Structural Metal Fabricator and Fitter
+Team Assembler
+Tire Builder
+Tool and Die Maker
+Upholsterer
+Woodworker
+Air Crew Member
+Air Crew Officer
+Aircraft Launch and Recovery Officer
+Aircraft Launch and Recovery Specialist
+Armored Assault Vehicle Crew Member
+Armored Assault Vehicle Officer
+Artillery and Missile Crew Member
+Artillery and Missile Officer
+Command and Control Center Officer
+Command and Control Center Specialist
+Infantry
+Infantry Officer
+Special Force
+Special Forces Officer
+Billing Clerk
+Bioinformatics Technician
+Bookkeeping, Accounting, and Auditing Clerks
+Brokerage Clerk
+Communications Equipment Operator
+Computer Operator
+Correspondence Clerk
+Court Clerk
+Customer Service Representative
+Data Entry Keyer
+Desktop Publisher
+File Clerk
+Freight Forwarder
+Gaming Clerk
+Hotel, Motel, and Resort Desk Clerk
+Human Resources Assistant
+Interviewer
+Legal Secretary
+Library Assistant
+License Clerk
+Loan Clerk
+Mail Clerk and Mail Machine Operator (except Postal Service)
+Marking Clerk
+Medical Secretary
+Meter Reader
+Municipal Clerk
+New Accounts Clerk
+Office Clerk, General
+Office Machine Operator (except Computer)
+Order Clerk
+Patient Representative
+Postal Service Clerk
+Postal Service Mail Carrier
+Procurement Clerk
+Secretary
+Shipping, Receiving, and Traffic Clerk
+Statement Clerk
+Statistical Assistant
+Switchboard Operator (including Answering Service)
+Telephone Operator
+Teller
+Animal Trainer
+Barber
+Child Care Worker
+Concierge
+Costume Attendant
+Embalmer
+Flight Attendant
+Funeral Attendant
+Gaming Service Worker
+Makeup Artist
+Motion Picture Projectionist
+Nanny
+Nonfarm Animal Caretaker
+Personal and Home Care Aide
+Recreation Worker
+Residential Advisor
+Shampooer
+Skin Care Specialist
+Spa Manager
+Transportation Attendant
+Travel Guide
+Animal Control Worker
+Bailiff
+Crossing Guard
+Detective
+Fire Fighter
+Fire Inspector
+Fire Investigator
+Fish and Game Warden
+Forest Fire Fighter
+Forest Fire Fighting and Prevention Supervisor
+Forest Fire Inspectors and Prevention Specialists
+Intelligence Analyst
+Loss Prevention Specialist
+Municipal Fire Fighter
+Municipal Fire Fighting and Prevention Supervisor
+Parking Enforcement Worker
+Police and Sheriff's Patrol Officer
+Police Detective
+Police Identification and Records Officer
+Police Patrol Officer
+Security Guard
+Transit and Railroad Police
+Transportation Security Officer
+Advertising Sales Agent
+Cashier
+Energy Broker
+Financial Services Sales Agent
+Insurance Sales Agent
+Model
+Parts Salesperson
+Real Estate Broker
+Real Estate Sales Agent
+Retail Salesperson
+Sales Engineer
+Securities and Commodities Sales Agent
+Securities and Commodities Trader
+Street Vendor
+Telemarketer
+Travel Agent
+Air Traffic Controller
+Aircraft Cargo Handling Supervisor
+Airfield Operations Specialist
+Aviation Inspectors
+Bridge and Lock Tender
+Captain of Water Vessels
+Commercial Pilot
+Dredge Operator
+Excavating and Related Machinery Operator
+Freight and Cargo Inspector
+Locomotive Engineer
+Locomotive Firer
+Mate of Water Vessels
+Motorboat Operator
+Parking Lot Attendant
+Pilot of Water Vessels
+Pump Operator
+Rail Transportation Worker
+Recycling Coordinators
+Service Station Attendant
+Ship Engineer
+Shuttle Car Operator
+Tank Car, Truck, and Ship Loader
+Traffic Technician
+Transportation Inspector
+Truck Driver
+Wellhead Pumper
